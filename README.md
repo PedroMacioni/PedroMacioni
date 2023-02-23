@@ -1,5 +1,4 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PedroMacioni&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMacioni)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -12,7 +11,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 </div>
-  
   ##
  
 <div> 
