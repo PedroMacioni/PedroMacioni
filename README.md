@@ -1,4 +1,3 @@
-Olá, me chamo Pedro Macioni e atualmente estudo a área de Front-end
 <div align="center">
   <a href="https://github.com/PedroMacioni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromacioni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
