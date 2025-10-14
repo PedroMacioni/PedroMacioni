@@ -1,8 +1,3 @@
-<!-- 🌟 Custom Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pedro%20Macioni%20👨‍💻&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
 <h1 align="center">Hey there 👋, I'm Pedro Macioni</h1>
 
 <p align="center">
