@@ -1,18 +1,24 @@
+<!-- 🌟 Custom Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pedro%20Macioni%20👨‍💻&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">Hey there 👋, I'm Pedro Macioni</h1>
 
 <p align="center">
   💻 <strong>Computer Science Student | Developer</strong> <br>
+  🚀 Always learning. Always improving.
 </p>
 
 ---
 
-### 🧠 About Me | Sobre Mim
+### 🧠 About Me
 
 **Developer & Computer Science Student**  
 I started my Web Development journey in **2020**, and since then, I’ve been constantly improving.  
-I have **2 years of experience as an intern**, working with **C#, .NET, .NET MAUI, HTML, CSS, JavaScript, React, and AngularJS**.  
+I have **2 years of experience as a Developer**, working with **C#, .NET, .NET MAUI, HTML, CSS, JavaScript, React, and AngularJS**.  
 Currently learning **React Native** to expand my expertise into mobile development.  
-Always excited to face new challenges and keep growing as a developer.  
+I’m passionate about creating clean, efficient, and scalable software solutions.  
 
 ---
 
@@ -31,14 +37,24 @@ Always excited to face new challenges and keep growing as a developer.
 
 ---
 
+### 🎯 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMacioni&show_icons=true&theme=tokyonight&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMacioni&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMacioni&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMacioni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
@@ -60,4 +76,6 @@ Always excited to face new challenges and keep growing as a developer.
 
 ---
 
-⭐️ _“Always learning. Always improving.”_
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
