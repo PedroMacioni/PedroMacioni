@@ -40,19 +40,6 @@ I’m passionate about creating clean, efficient, and scalable software solution
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMacioni&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMacioni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
----
-
 ### Connect with Me
 
 <div align="center"> 
