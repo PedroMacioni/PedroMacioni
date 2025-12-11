@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 **Developer & Computer Science Student**  
 I started my Web Development journey in **2020**, and since then, I’ve been constantly improving.  
@@ -16,7 +16,7 @@ I’m passionate about creating clean, efficient, and scalable software solution
 
 ---
 
-### 🧰 Languages & Tools
+### Languages & Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +31,7 @@ I’m passionate about creating clean, efficient, and scalable software solution
 
 ---
 
-### 🎯 Currently Learning
+### Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -40,7 +40,7 @@ I’m passionate about creating clean, efficient, and scalable software solution
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -53,7 +53,7 @@ I’m passionate about creating clean, efficient, and scalable software solution
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <div align="center"> 
   <a href="https://www.instagram.com/pedromacioni" target="_blank">
@@ -66,9 +66,3 @@ I’m passionate about creating clean, efficient, and scalable software solution
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-</p>
