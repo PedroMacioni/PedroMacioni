@@ -1,8 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Pedro Macioni</h1>
+<h1 align="center">Hey there, I'm Pedro Macioni</h1>
 
 <p align="center">
-  💻 <strong>Computer Science Student | Developer</strong> <br>
-  🚀 Always learning. Always improving.
+  <strong>Computer Science Student | Developer</strong> <br>
 </p>
 
 ---
