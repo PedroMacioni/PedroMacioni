@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Pedro Macioni</h1>
+<h1 align="center">Hey, I'm Pedro Macioni</h1>
 
 <p align="center">
   <strong>Computer Science Student | Developer</strong> <br>
