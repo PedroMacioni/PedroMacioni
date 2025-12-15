@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Pedro Macioni</h1>
+<h1 align="left">Hey, I'm Pedro Macioni</h1>
 
 <p align="center">
   <strong>Computer Science Student | Developer</strong> <br>
@@ -26,7 +26,6 @@ I’m passionate about creating clean, efficient, and scalable software solution
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ---
