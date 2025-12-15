@@ -30,14 +30,6 @@ I’m passionate about creating clean, efficient, and scalable software solution
 
 ---
 
-<div align="center">
-  <a href="https://github.com/PedroMacioni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromacioni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromacioni&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
 ### Connect with Me
 
 <div align="center"> 
@@ -50,4 +42,14 @@ I’m passionate about creating clean, efficient, and scalable software solution
   <a href="https://www.linkedin.com/in/pedro-macioni-tartari-04054a220" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</div>
+
+---
+
+### Stats
+
+<div align="center">
+  <a href="https://github.com/PedroMacioni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromacioni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromacioni&layout=compact&langs_count=7&theme=dracula"/>
 </div>
