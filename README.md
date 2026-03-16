@@ -17,7 +17,7 @@ I like building real-world applications and learning new technologies across the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/expo/expo/main/.github/resources/banner.png" height="40"/>
 </p>
 
 ---
