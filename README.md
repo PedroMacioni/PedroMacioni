@@ -21,26 +21,12 @@ I like building real-world applications and learning new technologies across the
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://streak-stats.demolab.com?user=pedromacioni&theme=dracula&hide_border=false" />
-
----
-
 ## 💻 What I'm focusing on
 
 - Building full-stack applications  
 - Improving backend development with **.NET & C#**  
 - Learning more about **cloud and scalable systems**  
 - Exploring **React and modern web stacks**
-
----
-
-## 🌐 Let's Connect
-
-- LinkedIn
-- Portfolio (future)
-- GitHub projects
 
 ---
 
