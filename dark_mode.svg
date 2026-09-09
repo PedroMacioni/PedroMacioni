@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="850px" height="450px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+.header {fill: #58a6ff;}
+.separator {fill: #30363d;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="850px" height="450px" fill="#0d1117" rx="15"/>
+<text x="30" y="40" fill="#c9d1d9" class="ascii">
+<tspan x="30" y="40" class="header">  _____          _            __  __            _             _ </tspan>
+<tspan x="30" y="60" class="header"> |  __ \        | |          |  \/  |          (_)           (_)</tspan>
+<tspan x="30" y="80" class="header"> | |__) |___  __| |_ __ ___  | \  / | __ _  ___ _  ___  _ __  _ </tspan>
+<tspan x="30" y="100" class="header"> |  ___/ _ \/ _` | '__/ _ \ | |\/| |/ _` |/ __| |/ _ \| '_ \| |</tspan>
+<tspan x="30" y="120" class="header"> | |  |  __/ (_| | | | (_) || |  | | (_| | (__| | (_) | | | | |</tspan>
+<tspan x="30" y="140" class="header"> |_|   \___|\__,_|_|  \___/ |_|  |_|\__,_|\___|_|\___/|_| |_|_|</tspan>
+</text>
+<text x="30" y="180" fill="#c9d1d9">
+<tspan x="30" y="180" class="value">pedromacioni</tspan><tspan class="cc">@</tspan><tspan class="key">github</tspan>
+<tspan x="30" y="200" class="separator">--------------------------------------------------------------</tspan>
+<tspan x="30" y="220" class="cc">  </tspan><tspan class="key">OS</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">Windows 11, Linux</tspan>
+<tspan x="30" y="240" class="cc">  </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: </tspan><tspan class="cc" id="age_data_dots">..................... </tspan><tspan class="value" id="age_data">21 years, 1 month, 18 days</tspan>
+<tspan x="30" y="260" class="cc">  </tspan><tspan class="key">Host</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">Brazil</tspan>
+<tspan x="30" y="280" class="cc">  </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">Full-Stack Developer</tspan>
+<tspan x="30" y="300" class="cc">  </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">VS Code, Visual Studio, Rider</tspan>
+<tspan x="30" y="320" class="cc">  </tspan>
+<tspan x="30" y="340" class="cc">  </tspan><tspan class="key">Languages.Backend</tspan><tspan class="cc">: ............ </tspan><tspan class="value">C#, .NET, Node.js</tspan>
+<tspan x="30" y="360" class="cc">  </tspan><tspan class="key">Languages.Frontend</tspan><tspan class="cc">: ........... </tspan><tspan class="value">React, Angular, TypeScript</tspan>
+<tspan x="30" y="380" class="cc">  </tspan><tspan class="key">Languages.Real</tspan><tspan class="cc">: ............... </tspan><tspan class="value">Portuguese, English</tspan>
+</text>
+<text x="480" y="180" fill="#c9d1d9">
+<tspan x="480" y="180" class="key">Hobbies</tspan>
+<tspan x="480" y="200" class="separator">-------------------------------</tspan>
+<tspan x="480" y="220" class="cc">  </tspan><tspan class="key">Software</tspan><tspan class="cc">: .... </tspan><tspan class="value">Building web apps</tspan>
+<tspan x="480" y="240" class="cc">  </tspan><tspan class="key">Music</tspan><tspan class="cc">: ....... </tspan><tspan class="value">Playing guitar</tspan>
+<tspan x="480" y="260" class="cc">  </tspan><tspan class="key">Sports</tspan><tspan class="cc">: ...... </tspan><tspan class="value">Running, Gym</tspan>
+<tspan x="480" y="300" class="key">Contact</tspan>
+<tspan x="480" y="320" class="separator">-------------------------------</tspan>
+<tspan x="480" y="340" class="cc">  </tspan><tspan class="key">Email</tspan><tspan class="cc">: .. </tspan><tspan class="value">pedrotartari77@gmail.com</tspan>
+<tspan x="480" y="360" class="cc">  </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: . </tspan><tspan class="value">pedro-macioni-tartari</tspan>
+<tspan x="480" y="380" class="cc">  </tspan><tspan class="key">Instagram</tspan><tspan class="cc">: ............. </tspan><tspan class="value">@pedromacioni</tspan>
+</text>
+<text x="30" y="420" fill="#c9d1d9">
+<tspan x="30" y="420" class="key">GitHub Stats</tspan><tspan class="separator"> -----------------------------------------------------------------</tspan>
+<tspan x="30" y="440" class="cc">  </tspan><tspan class="key">Repos</tspan><tspan class="cc">: </tspan><tspan class="cc" id="repo_data_dots">.. </tspan><tspan class="value" id="repo_data">0</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: </tspan><tspan class="cc" id="star_data_dots">.. </tspan><tspan class="value" id="star_data">0</tspan><tspan class="cc"> | </tspan><tspan class="key">Commits</tspan><tspan class="cc">: </tspan><tspan class="cc" id="commit_data_dots">.... </tspan><tspan class="value" id="commit_data">0</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: </tspan><tspan class="cc" id="follower_data_dots">.. </tspan><tspan class="value" id="follower_data">0</tspan>
+</text>
+</svg>
