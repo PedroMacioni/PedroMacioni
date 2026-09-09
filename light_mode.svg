@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="880px" height="380px" font-size="14px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="430px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -11,30 +11,49 @@ font-display: swap;
 .cc {fill: #8c959f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="880px" height="380px" fill="#ffffff" rx="10" stroke="#d0d7de" stroke-width="1"/>
-<text x="20" y="30" fill="#0969da" font-size="13px">
-<tspan x="20" y="30">  _____          _            __  __            _             _ </tspan>
-<tspan x="20" y="46"> |  __ \        | |          |  \/  |          (_)           (_)</tspan>
-<tspan x="20" y="62"> | |__) |___  __| |_ __ ___  | \  / | __ _  ___ _  ___  _ __  _ </tspan>
-<tspan x="20" y="78"> |  ___/ _ \/ _` | '__/ _ \ | |\/| |/ _` |/ __| |/ _ \| '_ \| |</tspan>
-<tspan x="20" y="94"> | |  |  __/ (_| | | | (_) || |  | | (_| | (__| | (_) | | | | |</tspan>
-<tspan x="20" y="110"> |_|   \___|\__,_|_|  \___/ |_|  |_|\__,_|\___|_|\___/|_| |_|_|</tspan>
+<rect width="985px" height="430px" fill="#ffffff" rx="15" stroke="#d0d7de" stroke-width="1"/>
+<text x="15" y="30" fill="#1f2328" class="ascii">
+<tspan x="15" y="30">                                            </tspan>
+<tspan x="15" y="50">        ██████╗ ███████╗██████╗ ██████╗     </tspan>
+<tspan x="15" y="70">        ██╔══██╗██╔════╝██╔══██╗██╔══██╗    </tspan>
+<tspan x="15" y="90">        ██████╔╝█████╗  ██║  ██║██████╔╝    </tspan>
+<tspan x="15" y="110">        ██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗    </tspan>
+<tspan x="15" y="130">        ██║     ███████╗██████╔╝██║  ██║    </tspan>
+<tspan x="15" y="150">        ╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝    </tspan>
+<tspan x="15" y="170">                                            </tspan>
+<tspan x="15" y="190">    ███╗   ███╗ █████╗  ██████╗██╗ ██████╗  </tspan>
+<tspan x="15" y="210">    ████╗ ████║██╔══██╗██╔════╝██║██╔═══██╗ </tspan>
+<tspan x="15" y="230">    ██╔████╔██║███████║██║     ██║██║   ██║ </tspan>
+<tspan x="15" y="250">    ██║╚██╔╝██║██╔══██║██║     ██║██║   ██║ </tspan>
+<tspan x="15" y="270">    ██║ ╚═╝ ██║██║  ██║╚██████╗██║╚██████╔╝ </tspan>
+<tspan x="15" y="290">    ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝ ╚═════╝  </tspan>
+<tspan x="15" y="310">                                            </tspan>
+<tspan x="15" y="330">         ███╗   ██╗██╗                      </tspan>
+<tspan x="15" y="350">         ████╗  ██║██║                      </tspan>
+<tspan x="15" y="370">         ██╔██╗ ██║██║                      </tspan>
+<tspan x="15" y="390">         ██║╚██╗██║██║                      </tspan>
+<tspan x="15" y="410">         ██║ ╚████║██║                      </tspan>
+<tspan x="15" y="430">         ╚═╝  ╚═══╝╚═╝                      </tspan>
 </text>
-<text x="20" y="140" fill="#1f2328">
-<tspan x="20" y="140" class="value">pedromacioni</tspan><tspan class="cc">@</tspan><tspan class="key">github</tspan><tspan fill="#d0d7de"> ——————————————————————————————————————————————————————————————</tspan>
-<tspan x="20" y="160" class="cc">  </tspan><tspan class="key">OS</tspan><tspan class="cc">: ............................. </tspan><tspan class="value">Windows 11, Linux</tspan>
-<tspan x="20" y="176" class="cc">  </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: ......................... </tspan><tspan class="value" id="age_data">21 years, 1 month, 18 days</tspan>
-<tspan x="20" y="192" class="cc">  </tspan><tspan class="key">Host</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">Brazil</tspan>
-<tspan x="20" y="208" class="cc">  </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">Full-Stack Developer</tspan>
-<tspan x="20" y="224" class="cc">  </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ............................ </tspan><tspan class="value">VS Code, Visual Studio</tspan>
-<tspan x="20" y="240" class="cc">  </tspan>
-<tspan x="20" y="256" class="cc">  </tspan><tspan class="key">Languages.Backend</tspan><tspan class="cc">: ............. </tspan><tspan class="value">C#, .NET, Node.js</tspan>
-<tspan x="20" y="272" class="cc">  </tspan><tspan class="key">Languages.Frontend</tspan><tspan class="cc">: ............ </tspan><tspan class="value">React, Angular, TypeScript</tspan>
-<tspan x="20" y="288" class="cc">  </tspan><tspan class="key">Languages.Mobile</tspan><tspan class="cc">: .............. </tspan><tspan class="value">React Native</tspan>
-<tspan x="20" y="304" class="cc">  </tspan><tspan class="key">Languages.Real</tspan><tspan class="cc">: ................ </tspan><tspan class="value">Portuguese, English</tspan>
-<tspan x="20" y="320" class="cc">  </tspan>
-<tspan x="20" y="336" class="cc">  </tspan><tspan class="key">Hobbies</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">Software, Guitar, Running, Gym</tspan>
-<tspan x="20" y="356" class="key">GitHub Stats</tspan><tspan fill="#d0d7de"> ———————————————————————————————————————————————————————————————</tspan>
-<tspan x="20" y="372" class="cc">  </tspan><tspan class="key">Repos</tspan><tspan class="cc">: </tspan><tspan class="value" id="repo_data">26</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: </tspan><tspan class="value" id="star_data">6</tspan><tspan class="cc"> | </tspan><tspan class="key">Commits</tspan><tspan class="cc">: </tspan><tspan class="value" id="commit_data">765</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: </tspan><tspan class="value" id="follower_data">0</tspan>
+<text x="390" y="30" fill="#1f2328">
+<tspan x="390" y="30">pedro</tspan><tspan class="cc">@</tspan><tspan class="key">macioni</tspan><tspan class="cc"> ———————————————————————————————————————————</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ............................ </tspan><tspan class="value">Windows 11, Linux</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: ........................ </tspan><tspan class="value" id="age_data">21 years, 1 month, 18 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">Brazil</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">Full-Stack Developer</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">VS Code, Visual Studio</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Backend</tspan><tspan class="cc">: ........... </tspan><tspan class="value">C#, .NET, Node.js</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frontend</tspan><tspan class="cc">: .......... </tspan><tspan class="value">React, Angular, TypeScript</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Mobile</tspan><tspan class="cc">: ............ </tspan><tspan class="value">React Native</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan><tspan class="cc">: .............. </tspan><tspan class="value">Portuguese, English</tspan>
+<tspan x="390" y="250" class="cc">. </tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan><tspan class="cc">: ............ </tspan><tspan class="value">Building Web &amp; Mobile Apps</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Life</tspan><tspan class="cc">: ................ </tspan><tspan class="value">Guitar, Running, Gym</tspan>
+<tspan x="390" y="330" class="cc">- </tspan><tspan>Contact</tspan><tspan class="cc"> ————————————————————————————————————————————</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">pedrotartari77@gmail.com</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">pedro-macioni-tartari</tspan>
+<tspan x="390" y="390" class="cc">- </tspan><tspan>GitHub Stats</tspan><tspan class="cc"> ———————————————————————————————————————</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">: </tspan><tspan class="value" id="repo_data">26</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: </tspan><tspan class="value" id="star_data">6</tspan><tspan class="cc"> | </tspan><tspan class="key">Commits</tspan><tspan class="cc">: </tspan><tspan class="value" id="commit_data">765</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: </tspan><tspan class="value" id="follower_data">0</tspan>
 </text>
 </svg>
