@@ -14,7 +14,7 @@ text, tspan {white-space: pre;}
 <rect width="620px" height="430px" fill="#161b22" rx="15"/>
 <text x="20" y="30" fill="#c9d1d9">
 <tspan x="20" y="30">pedro</tspan><tspan class="cc">@</tspan><tspan class="key">macioni</tspan><tspan class="cc"> ——————————————————————————————————————————</tspan>
-<tspan x="20" y="50" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: ........................ </tspan><tspan class="value" id="age_data">21 years, 1 month, 18 days</tspan>
+<tspan x="20" y="50" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: ........................ </tspan><tspan class="value" id="age_data">21 years, 1 month, 19 days</tspan>
 <tspan x="20" y="70" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">Brazil</tspan>
 <tspan x="20" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">Full-Stack Developer</tspan>
 <tspan x="20" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">VS Code, Visual Studio</tspan>
@@ -31,6 +31,6 @@ text, tspan {white-space: pre;}
 <tspan x="20" y="340" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">pedro-macioni-tartari</tspan>
 <tspan x="20" y="360" class="cc">. </tspan><tspan class="key">Instagram</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">@pedromacioni</tspan>
 <tspan x="20" y="390" class="cc">- </tspan><tspan>GitHub Stats</tspan><tspan class="cc"> —————————————————————————————————————</tspan>
-<tspan x="20" y="410" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">: </tspan><tspan class="value" id="repo_data">26</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: </tspan><tspan class="value" id="star_data">6</tspan><tspan class="cc"> | </tspan><tspan class="key">Commits</tspan><tspan class="cc">: </tspan><tspan class="value" id="commit_data">765</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="20" y="410" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">: </tspan><tspan class="value" id="repo_data">26</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: </tspan><tspan class="value" id="star_data">6</tspan><tspan class="cc"> | </tspan><tspan class="key">Commits</tspan><tspan class="cc">: </tspan><tspan class="value" id="commit_data">773</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: </tspan><tspan class="value" id="follower_data">1</tspan>
 </text>
 </svg>
